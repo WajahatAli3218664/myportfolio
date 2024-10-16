@@ -12,7 +12,7 @@ const Hero = () => {
                     <div className='ml-[5%]'>
                         <p className='text-[40px]'>Hi! My name is</p>
                         <p data-aos="flip-right" className='text-[60px] lg:text-[100px] font-bold'>Komal Abbasi</p>
-                        <p className='text-[40px] lg:text-[40px] flex justify-center justify-items-end'>and I'm a Web Developer!</p>
+                        <p className='text-[40px] lg:text-[40px] flex justify-center justify-items-end'>and I&apos;m a Web Developer!</p>
                     </div>
                 </div>
 

@@ -1,4 +1,3 @@
-import { title } from 'process'
 import React from 'react'
 import Heading from './heading';
 import Card from './card';
@@ -43,7 +42,7 @@ const data=[
 const Projects = () => {
   return (
     <div id='projects' className='container pt-32'>
-        <Heading title='My Projects'/>
+        <Heading  title='My Projects'/>
         <div  className='grid gap-10xl:gap-0 xl:gap-y-10 md:grid-cols-2 lg::grid-cols-3 place place-items-center'>
             {data.map((el)=>(<Card 
             key={el.id}
