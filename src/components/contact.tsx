@@ -14,10 +14,10 @@ const Contact = () => {
                         Feel free to Contact me!
                     </p>
                     <div className='flex gap-3 items-center'>
-                        <MdMailOutline size={30} /> abc@gmail.com
+                        <MdMailOutline size={30} /> wajahat345678@gmail.com
                     </div>
                     <div className='flex gap-3 items-center'>
-                        <BsTelephone size={30} /> 021-123456789
+                        <BsTelephone size={30} /> 03242042329
                     </div>
                 </div>
                 <div className='space-y-8'>

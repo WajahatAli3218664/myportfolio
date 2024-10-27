@@ -10,7 +10,7 @@ const Navbar = () => {
     return (
         <div className='container pt-8'>
             <nav  className=' flex justify-around items-center '>
-                <div className='text-xl font-medium border-[#0bdbd4] border-2 p-2 rounded-lg'>Komal Abbasi</div>
+                <div className='text-xl font-medium border-[#0bdbd4] border-2 p-2 rounded-lg'>Wajahat Ali</div>
                 <ul className='gap-10 lg:gap-16 text-2xl md:flex hidden'>
                     <li className='menuLink'><a href="#hero">Home</a></li>
                     <li className='menuLink'><a href="#about">About</a></li>
