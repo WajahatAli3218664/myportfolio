@@ -8,13 +8,13 @@ const Footer = () => {
           <h4 className="text-[#FFA726] font-semibold text-lg mb-6">Quick Links</h4>
           <ul className="space-y-5">
             <li>
-              <a href="https://www.facebook.com/Wajii10" className="hover:text-[#FFA726] text-gray-300 text-[15px] transition-all">facebook</a>
+              <a href="https://www.facebook.com/Wajii10" className="hover:text-[#FFA726] text-gray-300 text-[15px] transition-all">Facebook</a>
             </li>
             <li>
               <a href="https://github.com/WajahatAli3218664" className="hover:text-[#FFA726] text-gray-300 text-[15px] transition-all">Github</a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/wajahat-ali-3189862b4" className="hover:text-[#FFA726] text-gray-300 text-[15px] transition-all">Linkeden</a>
+              <a href="https://www.linkedin.com/in/wajahat-ali-3189862b4" className="hover:text-[#FFA726] text-gray-300 text-[15px] transition-all">Linkedin</a>
             </li>
             <li>
               <a href="https://www.youtube.com/@Waji-ib5rj" className="hover:text-[#FFA726] text-gray-300 text-[15px] transition-all">Youtube</a>
